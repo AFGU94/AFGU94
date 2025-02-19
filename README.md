@@ -12,8 +12,12 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-#2E8B57.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![APACHE AIRFLOW](https://img.shields.io/badge/APACHEairflow-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/SQL-%23?style=for-the-badge&logo=MySQL&logoColor=blue&labelColor=green&color=green
+)&nbsp;
+![APACHE AIRFLOW](https://img.shields.io/badge/apache%20airflow-%23?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=blue&color=blue
+)&nbsp;
+![POWER BI](https://img.shields.io/badge/power%20BI-%23?style=for-the-badge&logoColor=black&labelColor=yellow&color=yellow
+)&nbsp;
 
 
 ### 🗃 &nbsp;Databases
