@@ -15,8 +15,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![MySQL](https://img.shields.io/badge/SQL-%23?style=for-the-badge&logo=MySQL&logoColor=blue&labelColor=green&color=green
-)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
 ![APACHE AIRFLOW](https://img.shields.io/badge/apache%20airflow-%23?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=blue&color=blue
 )&nbsp;
 ![POWER BI](https://img.shields.io/badge/power%20BI-%23?style=for-the-badge&logoColor=black&labelColor=yellow&color=yellow
@@ -25,10 +24,10 @@
 
 ### 🗃 &nbsp;Databases
 
-![SQL](https://img.shields.io/badge/SQL-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Xls](https://img.shields.io/badge/Xls-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![CSV](https://img.shields.io/badge/CSV-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+![CSV](https://img.shields.io/badge/CSV-005571?style=for-the-badge)&nbsp;
+![JSON](https://img.shields.io/badge/JSON-%23DD0031.svg?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
+![Xls](https://img.shields.io/badge/Xls-%23316192.svg?style=for-the-badge&logoColor=white)&nbsp;
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
@@ -57,10 +56,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andresfelipegutierrezu/"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pipegutierrez.u@gmail.com"><img src="https://img.shields.io/badge/-pipegutierrez.u@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/andresfgu/"><img src="https://img.shields.io/badge/-andresfgu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://web.facebook.com/profile.php?id=728258906"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
