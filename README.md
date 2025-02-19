@@ -1,3 +1,6 @@
+<img alt="Night Coding" src="" width='40' align="left"/>
+
+
 ## Hi there, I´m Andres 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
