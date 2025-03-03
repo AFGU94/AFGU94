@@ -8,7 +8,7 @@
 💡 &nbsp;Interested in designing scalable data pipelines, optimizing data storage, and ensuring seamless data flows.\
 🎓 &nbsp;Currently learnings: AWS, clouds.\
 ✍️ &nbsp;I love play videogames like COD, FIFA.\
-✉️ &nbsp;You can shoot me an email at pipegutierrez.u@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at pipegutierrez.u@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
