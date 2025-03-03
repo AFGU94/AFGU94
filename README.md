@@ -4,10 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working in my own company with the possibility of reaching other types of projects and challenges of other areas.\
-💡 &nbsp;I like to explore new technologies to design scalable data pipelines, optimizing data storage, and ensuring seamless data flows.\
-🎓 &nbsp;I'm on track for learning more about clouds, AWS.\
-✍️ &nbsp;In my free time, I play videogames like COD and PES.\
+👨‍💻 &nbsp;Currently I own a steel constrution company with the possibility of taking on new challenges and projects in other areas.\
+💡 &nbsp;Interested in designing scalable data pipelines, optimizing data storage, and ensuring seamless data flows.\
+🎓 &nbsp;Currently learnings: AWS, clouds.\
+✍️ &nbsp;I love play videogames like COD, FIFA.\
 ✉️ &nbsp;You can shoot me an email at pipegutierrez.u@gmail.com! I'll try to respond as soon as I can.\
 
 
