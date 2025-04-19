@@ -4,10 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;Currently I own a steel constrution company with the possibility of taking on new challenges and projects in other areas.\
-💡 &nbsp;Interested in designing scalable data pipelines, optimizing data storage, and ensuring seamless data flows.\
+💡 &nbsp;Interested in designing efficient and reliable data flows, from storage optimization to building pipelines and ETL/ELT processes, including workflow automation with Apache Airflow.\
 🎓 &nbsp;Currently learnings: AWS, clouds.\
-✍️ &nbsp;I love play videogames like COD, FIFA.\
+👨‍💻 &nbsp;I love play videogames like COD, FIFA.\
 ✉️ &nbsp;You can shoot me an email at pipegutierrez.u@gmail.com! I'll try to respond as soon as I can.
 
 
