@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Interested in designing efficient and reliable data flows, from storage optimization to building pipelines and ETL/ELT processes, including workflow automation with Apache Airflow.\
-🎓 &nbsp;Currently learning AWS and cloud technologies.\
-👨‍💻 &nbsp;Gamer who enjoy GCP and FIFA in free time.\
+🎓 &nbsp;Currently learning GCP and cloud technologies.\
+👨‍💻 &nbsp;Gamer who enjoy play FIFA in free time.\
 ✉️ &nbsp;You can shoot me an email at pipegutierrez.u@gmail.com! I'll try to respond as soon as I can.
 
 
