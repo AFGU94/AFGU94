@@ -34,9 +34,9 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
-![APACHE AIRFLOW](https://img.shields.io/badge/apache%20airflow-%23?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=blue&color=blue
+![TERRAFORM](https://img.shields.io/badge/apache%20airflow-%23?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=blue&color=blue
 )&nbsp;
-![POWER BI](https://img.shields.io/badge/power%20BI-%23?style=for-the-badge&logoColor=black&labelColor=yellow&color=yellow
+![GCP](https://img.shields.io/badge/power%20BI-%23?style=for-the-badge&logoColor=black&labelColor=yellow&color=yellow
 )&nbsp;
 
 
