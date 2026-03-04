@@ -14,6 +14,7 @@
 - **Tools:** Docker, Git, GitHub Actions, Linux (WSL2).
 
 💡&nbsp; **Featured Project: Financial Data Ecosystem**
+
 I've developed a **Unified Financial Data Platform** on GCP that showcases:
 - **Real-time Monitoring:** Processing Binance API signals with 15-min latency.
 - **Historical Data Lakehouse:** Massive ingestion of Yahoo Finance data into BigQuery.
