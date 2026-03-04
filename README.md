@@ -24,6 +24,7 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 
 📜 &nbsp; **Certifications & Evolution**
 - **Google Cloud Associate Cloud Engineer (ACE):** Validating my ability to deploy and manage enterprise-grade cloud solutions.
+-  **Google Cloud Professional Data Engineer (PDE): in progress**
 
 ✉️ &nbsp; ## Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
