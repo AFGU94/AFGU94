@@ -4,10 +4,30 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Interested in designing efficient and reliable data flows, from storage optimization to building pipelines and ETL/ELT processes, including workflow automation with Apache Airflow.\
-🎓 &nbsp;Currently learning GCP and cloud technologies.\
-👨‍💻 &nbsp;Gamer who enjoy play FIFA in free time.\
-✉️ &nbsp;You can shoot me an email at pipegutierrez.u@gmail.com! I'll try to respond as soon as I can.
+🎓 &nbsp; I am a **Data Analyst turned Data Engineer** with a passion for building robust, automated, and cost-optimized data ecosystems. My background in analysis allows me to understand the "why" of the data, while my cloud engineering expertise ensures the "how" is scalable and production-ready.
+
+👨‍💻 &nbsp; 🛠️ My Technical Toolbox
+
+- **Cloud Infrastructure:** Google Cloud Platform (GCP), Terraform (IaC).
+- **Data Engineering:** ETL/ELT Pipelines, Batch & Streaming, BigQuery, Cloud Run, Firestore.
+- **Languages & Frameworks:** Python (Pandas, Polars, FastAPI), SQL, dbt.
+- **Tools:** Docker, Git, GitHub Actions, Linux (WSL2).
+
+💡&nbsp; 🚀 Featured Project: Financial Data Ecosystem
+I've developed a **Unified Financial Data Platform** on GCP that showcases:
+- **Real-time Monitoring:** Processing Binance API signals with 15-min latency.
+- **Historical Data Lakehouse:** Massive ingestion of Yahoo Finance data into BigQuery.
+- **FinOps Excellence:** Strategic design to operate 100% within the **GCP Always Free Tier**.
+
+👉 **[Explore the Architecture Here](LINK_A_TU_REPO_MAESTRO)**
+
+🎓 &nbsp;📜 Certifications & Evolution
+- **Google Cloud Associate Cloud Engineer (ACE):** Validating my ability to deploy and manage enterprise-grade cloud solutions.
+
+✉️ &nbsp; ## 📫 Let's Connect!
+- **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
+- **Portfolio:** https://github.com/AFGU94/gcp-financial-data-platform
+- **Focus:** I'm always open to discussing Data Architecture, GCP, and FinOps.
 
 
 ### 🛠 &nbsp;Tech Stack
