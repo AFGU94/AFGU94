@@ -1,6 +1,6 @@
 <img src="https://github.com/AFGU94/AFGU94/blob/main/banner.webp" width='1000' height='350' align="left"/>
 
-## Hi there, I´m Andres 👋
+## Hi, I´m Andres 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
