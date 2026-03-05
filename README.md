@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp; I am a **Data Analyst turned Data Engineer** with a passion for building robust, automated, and cost-optimized data ecosystems. My background in analysis allows me to understand the "why" of the data, while my cloud engineering expertise ensures the "how" is scalable and production-ready.
+🎓 &nbsp; I am a **Data Engineer** with a passion for building robust, automated, and cost-optimized data ecosystems. My background in analysis allows me to understand the "why" of the data, while my cloud engineering expertise ensures the "how" is scalable and production-ready.
 
 👨‍💻 &nbsp; **My Technical Toolbox**
 
