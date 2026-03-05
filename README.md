@@ -27,17 +27,26 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 -  **Google Cloud Professional Data Engineer (PDE): in progress**
 
  &nbsp; Let's Connect!
+ 
+### ✉️ &nbsp;Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
+- **Portfolio:** https://github.com/AFGU94
+- **Focus:** I'm always open to discussing Data Architecture, GCP, and FinOps.
 
+<p align="center">
+<a href="https://www.linkedin.com/in/andresfelipegutierrezu/"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pipegutierrez.u@gmail.com"><img src="https://img.shields.io/badge/-pipegutierrez.u@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/andresfgu/"><img src="https://img.shields.io/badge/-andresfgu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://web.facebook.com/profile.php?id=728258906"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
-![TERRAFORM](https://img.shields.io/badge/apache%20airflow-%23?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=blue&color=blue
-)&nbsp;
-![GCP](https://img.shields.io/badge/power%20BI-%23?style=for-the-badge&logoColor=black&labelColor=yellow&color=yellow
-)&nbsp;
+![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ### 🗃 &nbsp;Databases
@@ -66,15 +75,4 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 
 
 
-### ✉️ &nbsp;Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
-- **Portfolio:** https://github.com/AFGU94
-- **Focus:** I'm always open to discussing Data Architecture, GCP, and FinOps.
-
-<p align="center">
-<a href="https://www.linkedin.com/in/andresfelipegutierrezu/"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pipegutierrez.u@gmail.com"><img src="https://img.shields.io/badge/-pipegutierrez.u@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/andresfgu/"><img src="https://img.shields.io/badge/-andresfgu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://web.facebook.com/profile.php?id=728258906"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
