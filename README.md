@@ -43,8 +43,8 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
