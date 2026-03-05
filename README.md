@@ -26,7 +26,7 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 - **Google Cloud Associate Cloud Engineer (ACE):** Validating my ability to deploy and manage enterprise-grade cloud solutions.
 -  **Google Cloud Professional Data Engineer (PDE): in progress**
 
-✉️ &nbsp; ## Let's Connect!
+✉️ &nbsp; Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
 - **Portfolio:** https://github.com/AFGU94
 - **Focus:** I'm always open to discussing Data Architecture, GCP, and FinOps.
