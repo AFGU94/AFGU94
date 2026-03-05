@@ -51,17 +51,17 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 
 ### 🗃 &nbsp;Databases
 
-![CSV](https://img.shields.io/badge/CSV-005571?style=for-the-badge)&nbsp;
-![JSON](https://img.shields.io/badge/JSON-%23DD0031.svg?style=for-the-badge&logo=JSON&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
-![Xls](https://img.shields.io/badge/Xls-%23316192.svg?style=for-the-badge&logoColor=white)&nbsp;
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### 🧰 &nbsp;Version Control & Tools 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 
 <p align="center">
