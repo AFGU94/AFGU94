@@ -26,10 +26,8 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 - **Google Cloud Associate Cloud Engineer (ACE):** Validating my ability to deploy and manage enterprise-grade cloud solutions.
 -  **Google Cloud Professional Data Engineer (PDE): in progress**
 
-✉️ &nbsp; Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
-- **Portfolio:** https://github.com/AFGU94
-- **Focus:** I'm always open to discussing Data Architecture, GCP, and FinOps.
+ &nbsp; Let's Connect!
+
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -50,14 +48,12 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 ![Xls](https://img.shields.io/badge/Xls-%23316192.svg?style=for-the-badge&logoColor=white)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Version Control & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/AFGU94">
@@ -70,7 +66,10 @@ I've developed a **Unified Financial Data Platform** on GCP that showcases:
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### ✉️ &nbsp;Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/andresfelipegutierrezu/
+- **Portfolio:** https://github.com/AFGU94
+- **Focus:** I'm always open to discussing Data Architecture, GCP, and FinOps.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andresfelipegutierrezu/"><img src="https://img.shields.io/badge/-Andres%20Felipe%20Gutierrez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
