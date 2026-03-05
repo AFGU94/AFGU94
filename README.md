@@ -10,7 +10,7 @@
 
 - **Cloud Infrastructure:** Google Cloud Platform (GCP), Terraform (IaC).
 - **Data Engineering:** ETL/ELT Pipelines, Batch & Streaming, BigQuery, Cloud Run, Firestore.
-- **Languages & Frameworks:** Python (Pandas, Polars, FastAPI), SQL, dbt.
+- **Languages & Frameworks:** Python (Pandas, FastAPI), SQL, dbt.
 - **Tools:** Docker, Git, GitHub Actions, Linux (WSL2).
 
 💡&nbsp; **Featured Project: Financial Data Ecosystem**
